@@ -13,6 +13,7 @@
 		F528A43D271F1BFD00D46995 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F528A43B271F1BFD00D46995 /* Main.storyboard */; };
 		F528A43F271F1BFE00D46995 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F528A43E271F1BFE00D46995 /* Assets.xcassets */; };
 		F528A442271F1BFE00D46995 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F528A440271F1BFE00D46995 /* LaunchScreen.storyboard */; };
+		F528A44A271F2B8300D46995 /* CocoControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F528A449271F2B8300D46995 /* CocoControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F528A43E271F1BFE00D46995 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F528A441271F1BFE00D46995 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F528A443271F1BFE00D46995 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F528A449271F2B8300D46995 /* CocoControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F528A437271F1BFD00D46995 /* SceneDelegate.swift */,
 				F528A439271F1BFD00D46995 /* ViewController.swift */,
 				F528A43B271F1BFD00D46995 /* Main.storyboard */,
+				F528A449271F2B8300D46995 /* CocoControllerViewController.swift */,
 				F528A43E271F1BFE00D46995 /* Assets.xcassets */,
 				F528A440271F1BFE00D46995 /* LaunchScreen.storyboard */,
 				F528A443271F1BFE00D46995 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F528A44A271F2B8300D46995 /* CocoControllerViewController.swift in Sources */,
 				F528A43A271F1BFD00D46995 /* ViewController.swift in Sources */,
 				F528A436271F1BFD00D46995 /* AppDelegate.swift in Sources */,
 				F528A438271F1BFD00D46995 /* SceneDelegate.swift in Sources */,
